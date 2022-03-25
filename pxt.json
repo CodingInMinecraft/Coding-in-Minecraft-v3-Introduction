@@ -1,6 +1,6 @@
 {
     "name": "coding-in-minecraft-v3-introduction",
-    "version": "2.0.1",
+    "version": "3.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
