@@ -45,7 +45,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.6.11",
+        "target": "1.7.1",
         "targetId": "minecraft"
     },
     "supportedTargets": [
